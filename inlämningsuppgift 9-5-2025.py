@@ -1,3 +1,5 @@
+# Skrivet av copilot med gpt-4.1
+
 #Prompt:
 #jag vill skriva ett program som använder [att spara] för att mata in två tal. 
 # Programet ska sedan skriva ut summan. 
